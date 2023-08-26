@@ -8,7 +8,7 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
-✯ updates channel: <a href=https://t.me/m_house786>CLICK HERE</a>
+✯ updates channel: <a href=https://t.me/PVTSERVER>CLICK HERE</a>
 ✯ Subscribe you tube channel: <a href=<a href=@COOMINGSOON901>CLICK HERE</a></b>""" 
     SOURCE_TXT = """<b>NOTE:</b>
 - <b> PVT MOVIES is a open source project. 
